@@ -1,4 +1,4 @@
-# AdultIncomePredictionModel
+# Adult Income Prediction Model
 
 [Project Slides](https://docs.google.com/presentation/d/1wlX1ak79aP0rGmflBEt2sHieJBmz0I-9mw0_XTRJn8c/edit?usp=sharing)
 
